@@ -22,7 +22,7 @@
         </main>
 
         <footer>
-            <div class="hearts">❤️❤️❤️❤️</div>
+            <div class="hearts">🔥🏰🔥🏰🔥</div>
         </footer>
     </div>
 
